@@ -30,6 +30,9 @@ C, C++, Java, Python, PHP
 **Web Development:**  
 HTML, CSS • Backend: PHP • Database: MySQL
 
+**Framework:** 
+Flask
+
 **Computer Science Fundamentals:**  
 Data Structures and Algorithms (DSA) • Problem Solving
 
